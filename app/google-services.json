@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608674135503",
+    "project_id": "kisii-app",
+    "storage_bucket": "kisii-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608674135503:android:5bb0a73597532efa99e6ba",
+        "android_client_info": {
+          "package_name": "com.example.kisiiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3nzGWHPKrjqRlCz6RQTZp5nlLaPWd8EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
